@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://xn--s6wu47g.u.nxog.top/m/t/",
     "logo": "https://xn--s6wu47g.u.nxog.top/m//LOGO2.gif",
-    "spider": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/2游魂收集不分排名.js",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/fish2018/ol/main/jar/2游魂收集不分排名.js",
     "warningText": "游魂提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "lives": [
         {
@@ -36,7 +36,6 @@
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/2游魂收集不分排名.js",
             "ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=游魂"
         },
         {
@@ -230,14 +229,12 @@
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
-            "changeable": 0,
-            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/2游魂收集不分排名.js"
+            "changeable": 0
         },
         {
             "key": "应用商店",
             "name": "🛒影视应用商店",
             "type": 3,
-            "jar": "https://gitdl.cn/https://raw.githubusercontent.com/fish2018/ol/main/jar/2游魂收集不分排名.js",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
